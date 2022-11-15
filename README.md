@@ -7,8 +7,8 @@ Nesse mini curso de 4 aulas, você vai aprender os Fundamentos da Programação 
  - [Exercícios Aula 01](https://github.com/LuisOTSG/minicurso-cds/blob/main/aula01_minicurso_ds_exercises.ipynb)
  
 ### Aula 02 - Análise de Dados
- - [Atividades Aula 02]()
- - [Exercícios Aula 02]()
+ - [Atividades Aula 02](https://github.com/LuisOTSG/minicurso-cds/blob/main/aula02_minicurso_ds.ipynb)
+ - [Exercícios Aula 02](https://github.com/LuisOTSG/minicurso-cds/blob/main/aula02_minicurso_ds_exercises.ipynb)
  
 ### Aula 03 - Estatística Básica para DS
  - [Atividades Aula 03]()
